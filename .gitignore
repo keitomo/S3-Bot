@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# bot file
+!requirements.txt
+*.json
+*.txt
+*.mp3
+*.wav
+dict/
+guildconf/
+input/
+SE/
+voice/
+voiceconf/
+bin/
+include/
+lib/
+pyvenv.cfg
